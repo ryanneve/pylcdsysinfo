@@ -118,6 +118,7 @@ class TextAlignment(object):
     """Text alignment specifiers"""
     NONE        = -1
     CENTRE      = 0
+    CENTER      = 0
     LEFT        = 1
     RIGHT       = 2
 
